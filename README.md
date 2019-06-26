@@ -5,7 +5,7 @@ Burger is an application for Eat-Da-Burger restaurant that lets users input the 
 ## How To Use Burger
 ### **Video Guide**
 
-Watch the video here: https://www.youtube.com/watch?v= 
+Watch the video here: https://www.youtube.com/watch?v=yuDc2vBKz3k
 
 ### Prerequisites
 * Nodejs
